@@ -1,4 +1,4 @@
-# IkinciElAracSatisSistemi
+# Ikinci El Arac Satis Sistemi
 Bize verilmiş olan senaryoya göre ilk olarak uml diyagramı oluşturdum.
 Ardından solid tasarım prensiplerine uygun olarak c# dili ile kodlama işlemini gerçekleştirdim. Detaylı olarak anlatımını gerçekleştirmiş olduğum youtube linkim: 
 
